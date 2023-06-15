@@ -1,6 +1,6 @@
 ## Repository based on UDEMY course "Java Programming Masterclass" 
 
-### The coures can be found at [Complete Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course) <br/><br/>
+### The course can be found at [Complete Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course) <br/><br/>
 
 Repository is divided into sections, where the list underneath indicates to what each section contains
 
