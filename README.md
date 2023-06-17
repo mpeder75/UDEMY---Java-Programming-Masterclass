@@ -7,8 +7,10 @@ Repository is divided into sections, where the list underneath indicates to what
 <mark>**Note, this repository is only made for my own training**</mark>  <br/><br/>
 
 ### Course curriculum:
-- [x] Section 3 - Expressions, Variables, Casting
-- [ ] Section 4
+- [x] Section 1 - Getting Started - **NOT included**
+- [x] Section 2 - Programming Tools Setup - **NOT included**
+- [x] Section 3 - Primitive Types, Expressions, Variables, Casting
+- [ ] Section 4 - Conditional Statements, Operators & Operator Precedence
 - [ ] Section 5 
 - [ ] Section 6
 - [ ] Section 7
