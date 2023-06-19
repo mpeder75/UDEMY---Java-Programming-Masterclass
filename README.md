@@ -5,7 +5,7 @@
 Repository is divided into sections, where the list underneath indicates to what each section contains
 
 <br/>
-<span style="background-color: yellow;"> <b>Note, this repository is only made for my own training.</span>
+<span style="background-color: yellow;"> Note, this repository is only made for my own training.</span>
 
 
 
