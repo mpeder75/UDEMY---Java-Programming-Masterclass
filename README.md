@@ -4,14 +4,17 @@
 
 Repository is divided into sections, where the list underneath indicates to what each section contains
 
-<mark>**Note, this repository is only made for my own training**</mark>  <br/><br/>
+<br/>
+<span style="background-color: yellow;"> <b>Note, this repository is only made for my own training.</span>
+
+
 
 ### Course curriculum:
 - [x] Section 1 - Getting Started - **NOT included**
 - [x] Section 2 - Programming Tools Setup - **NOT included**
 - [x] Section 3 - Primitive Types, Expressions, Variables, Casting
-- [ ] Section 4 - Conditional Statements, Operators & Operator Precedence
-- [ ] Section 5 
+- [x] Section 4 - Conditional Statements, Operators & Operator Precedence
+- [ ] Section 5 - Keywords & Expressions, Statements, Methods
 - [ ] Section 6
 - [ ] Section 7
 - [ ] Section 8
@@ -35,5 +38,3 @@ Repository is divided into sections, where the list underneath indicates to what
 - [ ] Section 26
 - [ ] Section 27
 - [ ] Section 28
-- [ ] Section 28
-- [ ] Section 29

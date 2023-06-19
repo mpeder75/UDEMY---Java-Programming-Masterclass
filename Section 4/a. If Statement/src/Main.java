@@ -8,8 +8,14 @@ public class Main {
         if (isAlien == false)
         {
             System.out.println("It is not a Alien");
-            System.out.println("Ani I an scared of aliens");
+            System.out.println("And I an scared of aliens");
         }
 
+        // Eller med shorthand i condition
+        if (!isAlien)
+        {
+            System.out.println("It is not a Alien");
+            System.out.println("And I an scared of aliens");
+        }
     }
 }
